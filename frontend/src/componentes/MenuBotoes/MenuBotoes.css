@@ -1,0 +1,12 @@
+.menuBotoes {
+  height: 4vw;
+  text-align: center;
+}
+
+#btnInicio, #btnEngenheiros, #btnObras, #btnUsuarios, #btnConfig, #btnVoltar {
+  margin: 0.6%;
+  width: 100px;
+  min-width: 15vw;
+  max-width: 15vw;
+  margin-left: 3vw;
+}
